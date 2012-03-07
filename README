@@ -1,4 +1,5 @@
-A first attempt to fork the original 'wirehairfec' distribution to allow porting to other languards.
+A first attempt to fork Catid's original 'wirehairfec' distribution,
+and provide a record of the status of ports to other languages.
 
 Some possible ports are now being discussed:
 o Java
