@@ -1,7 +1,10 @@
+** Tue  6-Mar-12, 20:01/sheppards
+
 A first attempt to fork Catid's original 'wirehairfec' distribution,
 and provide a record of the status of ports to other languages.
 
 Some possible ports are now being discussed:
+o generic C++ (original project was developed in MS VisualStudio v??.??)
 o Java
 o Perl
 o Python
