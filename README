@@ -1,0 +1,5 @@
+A first attempt to fork the original 'wirehairfec' distribution to allow porting to other languards.
+Possible ports:
+o Java
+o Perl
+o Python
