@@ -1,4 +1,7 @@
-	Wirehair Streaming Forward Error Correction (FEC)
+** Tue  6-Mar-12, 20:01/sheppards
+   created this fork of Catid's "wirehair" repository.
+===================================================================================
+Wirehair Streaming Forward Error Correction (FEC)
 
 		Wirehair FEC produces a stream of error correction blocks from a
 	data source.  When enough of these blocks are received, the original
